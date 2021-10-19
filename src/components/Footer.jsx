@@ -6,7 +6,7 @@ function Footer() {
                     © {new Date().getFullYear()} Copyright Text
                     <a
                         className="grey-text text-lighten-4 right"
-                        href="https://github.com/VladislavL-hub/react-shop-fortnite"
+                        href="https://github.com/VladislavL-hub/react_food"
                         target="_blank"
                         rel="noreferrer"
                     >
